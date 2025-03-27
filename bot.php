@@ -1,6 +1,6 @@
 <?php
 // توکن ربات - باید با توکن از بات فادر توی تلگرام بگیری اینجا جایگزین شود
-define('BOT_TOKEN', 'inja copy kon');
+define('BOT_TOKEN', 'YOUR_BOT_TOKEN_HERE');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
 // دیتابیس ساده برای ذخیره کاربران (در پروژه واقعی از دیتابیس واقعی استفاده کنید)
